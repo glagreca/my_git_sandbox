@@ -1,4 +1,4 @@
 # my_git_sandbox
 
-# git commit -a
-# git push
+git commit -a
+git push
