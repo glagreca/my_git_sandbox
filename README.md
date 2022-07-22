@@ -1,4 +1,14 @@
 # my_git_sandbox
 
-git commit -a
-git push
+git pull # push changes
+
+git add FILE  # 
+
+git commit -a # commit all 
+
+git push # push changes
+
+
+
+
+
