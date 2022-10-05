@@ -8,3 +8,5 @@ git commit -a # commit all
 
 git push # push changes
 
+check token
+
